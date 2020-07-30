@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerDemo</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerDemo.Controllers.CustomerController.Get">
+            <summary>
+            Pegar dados dos clientes
+            </summary>
+            <returns>todos os detalhes dos clientes</returns>
+        </member>
+        <member name="M:SwaggerDemo.Controllers.CustomerController.Get(System.Int32)">
+            <summary>
+            Cliente pelo id
+            </summary>
+            <param name="id">Ler cliente pelo id </param>
+            <returns>Detalhes do cliente</returns>
+        </member>
+    </members>
+</doc>
